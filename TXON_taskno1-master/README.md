@@ -1,0 +1,7 @@
+# TXON_taskno1
+This was a task given by  TXON while Android App Development Internship 
+Unit Converter App
+The KFC app demonstrates the conversion of temperature units.
+Java And XML is used along with android studio
+
+
